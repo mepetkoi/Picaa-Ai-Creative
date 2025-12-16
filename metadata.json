@@ -1,0 +1,7 @@
+{
+  "name": "Picaa Ai Creative ",
+  "description": "Picaa Ai Creative",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
